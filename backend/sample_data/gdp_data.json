@@ -1,0 +1,10 @@
+[
+  { "country": "USA", "gdp_usd_trillion": 25.46, "population_million": 331, "year": 2022 },
+  { "country": "China", "gdp_usd_trillion": 17.96, "population_million": 1412, "year": 2022 },
+  { "country": "Japan", "gdp_usd_trillion": 4.23, "population_million": 125, "year": 2022 },
+  { "country": "Germany", "gdp_usd_trillion": 4.07, "population_million": 84, "year": 2022 },
+  { "country": "India", "gdp_usd_trillion": 3.39, "population_million": 1380, "year": 2022 },
+  { "country": "UK", "gdp_usd_trillion": 3.07, "population_million": 67, "year": 2022 },
+  { "country": "France", "gdp_usd_trillion": 2.78, "population_million": 68, "year": 2022 },
+  { "country": "Canada", "gdp_usd_trillion": 2.20, "population_million": 38, "year": 2022 }
+]
